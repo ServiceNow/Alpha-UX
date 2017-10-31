@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>ion-ios-list-outline - Ionicons</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="18" font-family="Ionicons" font-weight="400">
+        <g id="Menu-Default" transform="translate(-29.000000, -381.000000)" fill="#4A4A4A">
+            <g id="Side-Navigate-Card-With-Enrichement" transform="translate(0.000000, 352.000000)">
+                <g id="Side-Navigate-Card">
+                    <g id="Navigate-Card">
+                        <g id="Rows/Standard/Basic/NoSubtitle/-Icon-Row-Copy-12">
+                            <text id="ion-ios-list-outline---Ionicons" transform="translate(36.000000, 36.000000) scale(-1, 1) rotate(180.000000) translate(-36.000000, -36.000000) ">
+                                <tspan x="29.25" y="40"></tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
